@@ -23,7 +23,7 @@ def main():
     print(vars(al2))
     """
     al1= Alumno("Diego", 19,"ICO")
-    al2= Alumno("Monetse", 20, "Derecho")
+    al2= Alumno("Montse", 20, "Derecho")
     print(vars(al1))
     al1.__edad=33
     print(al1.__edad)
